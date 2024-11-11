@@ -202,7 +202,7 @@ body{
 }
 
 #bookholder{
-  margin-left: -75%;
+  margin-left: -70%;
 }
 
 #button{
@@ -216,7 +216,6 @@ body{
 }
 
 .text{
-   color:green;
   font-size: 100%;
   font-style: italic;
 }
